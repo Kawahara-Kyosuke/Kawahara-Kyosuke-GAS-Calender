@@ -28,5 +28,6 @@ function myFunction() {
         count.getRange(lastRow1+1, 2, values.length, values[0].length).setValues(values);
   }    
 
+    ## test
   }
 }
